@@ -2,7 +2,7 @@
 
 ![www.retroarch.com](image/branding/retroarch_banner.png)
 
-RetroArch is the official reference frontend for libretro "cores": applications that include emulators, game engines, and media players. Settings are also unified across cores with advanced features like shaders, netplay, rewinding, and more!
+RetroArch is the official reference frontend for libretro "cores": applications that include emulators, game engines, and media players. Settings are also unified across cores with advanced features like shaders, netplay, rewinding, fast-forwarding, save states and more!
 
 ![www.libretro.com](image/branding/libretro_banner.png)
 
@@ -14,7 +14,7 @@ RetroArch runs and is supported on GNU/Linux, BSD, Windows, Mac OSX (PPC/Intel),
 ## What is the license for this?
 libretro is released under the MIT license. RetroArch is released under the GNU GPLv3. The cores are usually released with the same license as the originating projects.
 
-## What emulators, games, and other cores are currently supported?
+## What emulators, games and other cores are currently supported?
 You can see a list sorted by hardware maker under *For Users > Core Library: Emulation*
 
 ## Official Links
